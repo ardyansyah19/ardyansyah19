@@ -10,5 +10,5 @@
 
 <p align="center">
   <img width="320" src="https://github-readme-stats.shion.dev/api?username=ardyansyah19&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img width="360" src="https://streak-stats.demolab.com?user=ardyansyah19&theme=dark&hide_border=false" />
+  <img width="350" src="https://streak-stats.demolab.com?user=ardyansyah19&theme=dark&hide_border=false" />
 </p>
