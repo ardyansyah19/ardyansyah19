@@ -10,5 +10,5 @@
 ### 📊 GitHub Stats:
 <p align="center">
   <img width="310" src="https://github-readme-stats.shion.dev/api?username=ardyansyah19&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img width="325" src="https://streak-stats.demolab.com?user=ardyansyah19&theme=dark&hide_border=false" />
+  <img width="330" src="https://streak-stats.demolab.com?user=ardyansyah19&theme=dark&hide_border=false" />
 </p>
