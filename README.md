@@ -1,4 +1,3 @@
-
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ar_dyansyah19)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/628871536731)
@@ -9,5 +8,5 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img width="330" src="https://streak-stats.demolab.com?user=ardyansyah19&theme=dark&hide_border=false" />
+  <img width="320" src="https://streak-stats.demolab.com?user=ardyansyah19&theme=dark&hide_border=false" />
 </p>
