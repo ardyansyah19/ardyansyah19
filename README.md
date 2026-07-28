@@ -8,5 +8,9 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ardyansyah19&theme=dark&hide_border=false&t=1722240000" />
+  <img
+    width="220"
+    src="https://streak-stats.demolab.com?user=ardyansyah19&theme=dark&hide_border=false&t=1722240000"
+    alt="GitHub Streak"
+  />
 </p>
