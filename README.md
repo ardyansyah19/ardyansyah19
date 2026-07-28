@@ -8,5 +8,8 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img width="320" src="https://streak-stats.demolab.com?user=ardyansyah19&theme=dark&hide_border=false" />
+  <img
+    width="320"
+    src="https://streak-stats.demolab.com?user=ardyansyah19&theme=dark&hide_border=false&v=2"
+  />
 </p>
