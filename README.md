@@ -10,7 +10,7 @@
 <p align="center">
   <img
     width="310"
-    src="https://streak-stats.demolab.com?user=ardyansyah19&theme=dark&hide_border=false&t=1722240000"
+    src="https://streak-stats.demolab.com?user=ardyansyah19&theme=dark&v=20260729"
     alt="GitHub Streak"
   />
 </p>
