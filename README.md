@@ -9,7 +9,7 @@
 ### 📊 GitHub Stats:
 <p align="center">
   <img
-    width="320"
+    width="310"
     src="https://streak-stats.demolab.com?user=ardyansyah19&theme=dark&hide_border=false&t=1722240000"
     alt="GitHub Streak"
   />
