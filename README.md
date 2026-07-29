@@ -9,8 +9,7 @@
 ### 📊 GitHub Stats:
 <p align="center">
   <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=ardyansyah19&theme=dark"
     width="310"
-    src="https://streak-stats.demolab.com?user=ardyansyah19&theme=dark"
-    alt="GitHub Streak"
   />
 </p>
