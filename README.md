@@ -10,6 +10,6 @@
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=ardyansyah19&theme=dark"
-    width="310"
+    width="210"
   />
 </p>
